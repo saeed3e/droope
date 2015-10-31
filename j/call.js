@@ -78,7 +78,7 @@ var mult2 = {
     data: CurrentLocObj,
     prefillData: '5000',
     checkBox: true,
-    maxTagsCount: 3
+  //  maxTagsCount: 3
 };
 new DD(mult2);
 
